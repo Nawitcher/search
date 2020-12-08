@@ -1,0 +1,28 @@
+.q {
+	display: flex;
+	justify-content:flex-start:;
+}
+.ee {
+	width: 700px;
+	height: 30px;
+	border:2px solid blue;
+	color: green;
+
+}
+.t {
+	font-size: 50px;
+	color: black;
+}
+.ww{
+	color:green;
+}
+.ww:hover {
+	color: red;
+
+	}
+.ee::placeholder {
+	color:grey;
+}
+.ee:hover {
+	color: red;
+}
